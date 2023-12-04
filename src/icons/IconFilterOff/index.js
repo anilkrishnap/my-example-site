@@ -1,1 +1,0 @@
-export { IconFilterOff } from "./IconFilterOff";

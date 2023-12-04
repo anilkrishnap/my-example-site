@@ -1,1 +1,0 @@
-export { IconSearchWrapper } from "./IconSearchWrapper";

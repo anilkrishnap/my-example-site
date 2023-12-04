@@ -1,1 +1,0 @@
-export { LogoCanvaslogo } from "./LogoCanvaslogo";

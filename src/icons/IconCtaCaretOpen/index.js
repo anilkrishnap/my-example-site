@@ -1,1 +1,0 @@
-export { IconCtaCaretOpen } from "./IconCtaCaretOpen";
